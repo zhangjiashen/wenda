@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 /**
  * Created by nowcoder on 2016/7/10.
  */
-@Controller
+//@Controller
 public class SettingController {
     @Autowired
     WendaService wendaService;
